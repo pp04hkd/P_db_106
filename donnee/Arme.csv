@@ -1,0 +1,51 @@
+arme_id,nom,description,puissance,coupmax,prix
+1,IronFang,"A weapon forged in the depths of the underworld, delivering unparalleled power.",1,43,142
+2,Stormbreaker,Crafted with precision to pierce through the toughest of armors.,2,26,359
+3,ShadowBlade,An ancient relic imbued with the power of the elements.,8,21,176
+4,VenomClaw,Favored by elite warriors for its deadly accuracy and balance.,5,44,165
+5,PhoenixFlame,A legendary weapon said to hold the essence of a dragon's flame.,8,34,150
+6,Frostbite,A chilling weapon that freezes enemies in their tracks.,10,38,157
+7,ThunderStrike,Harnesses the fury of a thunderstorm to strike down foes.,9,38,250
+8,InfernoRage,A devastating weapon that engulfs enemies in a fiery inferno.,10,32,101
+9,GhostReaper,A ghostly weapon that moves as if it has a mind of its own.,10,47,405
+10,CrimsonEdge,Razor-sharp and soaked in the blood of its enemies.,10,10,166
+11,SoulPiercer,Infused with mystical energy to pierce the strongest shields.,3,19,122
+12,NightHunter,A deadly bow that hunts its prey in the darkest of nights.,7,18,384
+13,FlameTalon,Flaming talons crafted to tear through any defense.,5,26,358
+14,ArcticFury,An icy blade capable of unleashing storms of frost.,1,23,295
+15,VoidHammer,A hammer that crushes with the weight of a collapsing star.,2,29,354
+16,Bloodfang,A weapon feared for its insatiable thirst for blood.,8,46,135
+17,EclipseBow,A bow that fires arrows wreathed in the power of the eclipse.,9,5,111
+18,LightningWhisper,"Whisper-quiet yet deadly, like lightning in the night.",1,7,139
+19,ChaosBringer,"Bringer of chaos, feared by even the bravest warriors.",10,48,464
+20,DoomSlayer,Slayer of demons and the bane of darkness.,4,15,198
+21,SolarEdge,Shines with the brilliance of a thousand suns.,3,40,492
+22,Blackthorn,A dark and thorny blade that hungers for destruction.,4,38,191
+23,SkyPiercer,Cuts through the air with divine precision and speed.,6,30,399
+24,AshenFury,A blade that burns with the fury of the ashes.,10,17,354
+25,DragonClaw,"Forged in dragonfire, it leaves nothing but ruin in its path.",10,49,397
+26,SilverVortex,A vortex of silver that slashes through the toughest foes.,8,39,62
+27,Firestorm,A weapon that rains fire and destruction upon its enemies.,1,48,346
+28,BlizzardLance,A lance that summons the chilling winds of a blizzard.,8,35,224
+29,DuskBlade,"A blade that hides in the shadows, striking with deadly force.",6,48,375
+30,IronWrath,A wrathful weapon made to crush the unworthy.,3,29,145
+31,RavenSpire,"A spire of darkness, piercing the hearts of the wicked.",9,48,157
+32,Starbreaker,Breaks stars and shatters hope wherever it lands.,3,33,405
+33,Hellfire,A weapon fueled by the flames of the underworld.,8,44,96
+34,TempestFang,"A fang of a tempest, tearing through the battlefield.",6,24,226
+35,LunarSaber,"A saber as cold as the lunar night, deadly and swift.",5,13,102
+36,WraithEdge,"A wraith's weapon, cutting down enemies with eerie silence.",10,12,466
+37,SerpentStrike,"Strikes like a serpent, fast and deadly.",7,41,487
+38,SilentReaper,Reaps the souls of those who dare to face it.,7,22,391
+39,ThunderWrath,"Harnesses the wrath of thunder, a force of nature.",10,45,412
+40,VoidLance,"A lance that plunges into the void, leaving no trace.",9,24,70
+41,ShadowFury,"A blade that rages like a shadowstorm, devastating all.",8,11,463
+42,EternalFlame,"A flame eternal, burning with unyielding strength.",6,47,268
+43,CrystalPiercer,A piercing crystal weapon with unmatched sharpness.,1,12,204
+44,ObsidianEdge,"Forged from obsidian, a blade of black and malice.",10,8,178
+45,SolarSpear,A spear that shines with the light of the sun.,5,15,466
+46,MysticDagger,A dagger infused with mystic runes for stealth and power.,2,48,299
+47,BlazeCannon,A cannon that blazes with fiery explosions.,5,33,294
+48,FrostHammer,"A hammer forged in frost, bringing icy death.",9,30,159
+49,VortexRifle,"A rifle of swirling energy, delivering precise destruction.",2,45,298
+50,DarkTalon,"A talon of darkness, quick and lethal.",6,21,65

@@ -1,0 +1,65 @@
+Requête p_db_106:
+
+Requête n°1 : ☺
+	SELECT * 
+	FROM `Joueur` 
+	ORDER BY point DESC
+	LIMIT 5;
+
+Requête n°2 : ☺
+	SELECT MAX(prix) AS PrixMaximum, MIN(prix) AS PrixMinimum, AVG(prix) AS PrixMoyen
+	FROM Arme;
+
+Requête n°3 :☻
+	SELECT joueur_id AS idJoueur, commande_id
+	FROM Joueur
+	JOIN Commande
+	ON joueur_id = joueur_fk
+	WHERE joueur_id = joueur_fk COUNT( commande_id AS NombreCommandes)
+	
+Requête n°4 : ☻
+	SELECT joueur_id
+	FROM Joueur
+	JOIN Commande
+	ON joueur_id = joueur_fk
+	WHERE COUNT(joueur_fk) > 2;
+
+Requête n°5 : ☺
+	SELECT pseudo,nom
+	FROM Joueur
+	JOIN Commande
+	ON joueur_id = joueur_fk
+	JOIN avoir
+	ON commande_id = commande_fk
+	JOIN Arme
+	ON arme_id = arme_fk;
+
+Requête n°6 : 
+	
+Requête n°7 : 
+
+Requête n°8 : ☺
+	SELECT Commande.*,pseudo
+	FROM Commande
+	JOIN Joueur
+	ON joueur_id = joueur_fk  
+	ORDER BY `Commande`.`commande_id` DESC
+Requête n°9 : ☺
+	SELECT joueur_id, COUNT(nom)
+	FROM Joueur
+	LEFT JOIN posseder
+	ON joueur_id = joueur_fk
+	LEFT JOIN Arme
+	ON arme_id = arme_fk
+	GROUP BY joueur_id
+	HAVING COUNT(nom) >= 0;
+
+Requête n°10 : ☺
+	SELECT joueur_id
+	FROM Joueur
+	JOIN posseder
+	ON joueur_id = joueur_fk
+	JOIN Arme
+	ON arme_id = arme_fk
+	GROUP BY joueur_id
+	HAVING COUNT(nom) > 3;
